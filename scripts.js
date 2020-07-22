@@ -1,9 +1,9 @@
 function sayHello() {
-    console.log('Hello world!');
+    console.log('Bonjuer');
 }
 
 function sayGoodbye() {
-    console.log('Adios!');
+    console.log('Au revoir');
 }
 
 sayHello();
