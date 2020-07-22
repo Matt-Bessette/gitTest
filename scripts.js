@@ -3,7 +3,7 @@ function sayHello() {
 }
 
 function sayGoodbye() {
-    console.log('Good bye!');
+    console.log('Adios!');
 }
 
 sayHello();
